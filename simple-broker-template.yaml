@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Template
 metadata:
   name: ansible-service-broker
-objects:d
+objects:
 - apiVersion: v1
   kind: Service
   metadata:
