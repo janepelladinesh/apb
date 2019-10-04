@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v
 kind: Template
 metadata:
   name: ansible-service-broker
