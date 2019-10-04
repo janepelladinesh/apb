@@ -267,7 +267,7 @@ objects:
       registry:
         - type: local_openshift
           name: localregistry
-          namespaces: ['openshift',ansible-service-broker']
+          namespaces: ['openshift','ansible-service-broker']
           white_list: ['ao-apb']
 
          
